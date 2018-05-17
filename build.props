@@ -14,7 +14,7 @@
 
   <PropertyGroup>
     <OutputPath>..\bin\$(AssemblyName)</OutputPath>
-    <NewtonsoftVersion>10.0.1</NewtonsoftVersion>
+    <NewtonsoftVersion>7.0.1</NewtonsoftVersion>
   </PropertyGroup>
 
 </Project>
